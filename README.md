@@ -22,3 +22,5 @@ python main.py
 ## CLI
 
 The application asks the user for latitude and longitude.
+
+## CLI Usage
