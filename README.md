@@ -23,9 +23,5 @@ python main.py
 
 The application asks the user for latitude and longitude.
 
-<<<<<<< HEAD
-
-=======
 
 ## Command Line Interface
->>>>>>> feature/cli-message
