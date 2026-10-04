@@ -17,3 +17,8 @@ python main.py
 - `main.py` — CLI entry point
 - `weather_api.py` — API requests
 - `validation.py` — coordinate validation
+
+
+## CLI
+
+The application asks the user for latitude and longitude.
