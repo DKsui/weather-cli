@@ -10,8 +10,3 @@ Run the application:
 
 ```bash
 python main.py
-```
-
-## Notes
-
-Weather data is retrieved from Open-Meteo.
