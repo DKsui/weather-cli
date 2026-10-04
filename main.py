@@ -1,4 +1,5 @@
 from validation import validate_coordinates
+# Weather CLI application
 from weather_api import get_weather
 
 def get_coordinates():
