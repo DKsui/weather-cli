@@ -10,3 +10,10 @@ Run the application:
 
 ```bash
 python main.py
+```
+
+## Project structure
+
+- `main.py` — CLI entry point
+- `weather_api.py` — API requests
+- `validation.py` — coordinate validation
