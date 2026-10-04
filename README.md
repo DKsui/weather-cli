@@ -25,3 +25,7 @@ The application asks the user for latitude and longitude.
 
 
 ## Command Line Interface
+
+## Clone test
+
+This change was created from the cloned repository.
